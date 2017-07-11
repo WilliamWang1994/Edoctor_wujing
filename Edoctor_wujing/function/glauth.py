@@ -13,7 +13,6 @@ def check_auth(username, password,url,func):
     # print(func)
     # print(username)
     # print(password)
-    # return username == 'kettle' and password == 'Edoctor123!'
     return True
 
 def auth(f):
