@@ -14,11 +14,6 @@ api_cfg = {
     'port': "5001"
 }
 
-auth_cfg = {
-    'user':"aistock",
-    'pass':"Edoctor123!"
-
-}
 
 
 
